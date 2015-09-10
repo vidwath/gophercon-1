@@ -339,3 +339,7 @@ Main components
 .payments {
   font-size: 1.5em; 
 }
+/*To get the collapsed items in same line*/
+.collapse.in {
+  display: inline;
+} 
