@@ -343,3 +343,22 @@ Main components
 .collapse.in {
   display: inline;
 } 
+/*Transbox*/
+.transbox
+{
+  width: 280px;
+  height: 75px;
+  background-color: #d5c0e7;
+  border: 1px solid #d5c0e7;
+  opacity:0.7;
+  border-radius: 15px;
+}
+.transbox1
+{
+  width: 330px;
+  height: 75px;
+  background-color: #d5c0e7;
+  border: 1px solid #d5c0e7;
+  opacity:0.7;
+  border-radius: 15px;
+}
