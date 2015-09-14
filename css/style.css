@@ -344,21 +344,18 @@ Main components
   display: inline;
 } 
 /*Transbox*/
-.transbox
-{
-  width: 280px;
-  height: 75px;
-  background-color: #d5c0e7;
-  border: 1px solid #d5c0e7;
-  opacity:0.7;
-  border-radius: 15px;
+
+.spon p {
+  font-size: 15px;
+  text-align: justify;
 }
-.transbox1
-{
-  width: 330px;
-  height: 75px;
-  background-color: #d5c0e7;
-  border: 1px solid #d5c0e7;
-  opacity:0.7;
-  border-radius: 15px;
+.spo{
+  color: #3F1237;
 }
+/*#wave{
+  margin-bottom: 0px;
+}*/
+/*.line{
+  padding-top: 0px;
+  margin-top: 0px;
+}*/
